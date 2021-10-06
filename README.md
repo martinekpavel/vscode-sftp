@@ -50,7 +50,7 @@ To install it just follow thoses steps from within VSCode :
 - [Settings](https://github.com/Natizyskunk/vscode-sftp/wiki/Setting)
 - [Common configuration](https://github.com/Natizyskunk/vscode-sftp/wiki/Common-Config)
 - [SFTP configuration](https://github.com/Natizyskunk/vscode-sftp/wiki/SFTP-only-Config)
-- [FTP confriguration](https://github.com/Natizyskunk/vscode-sftp/wiki/FTP(s)-only-Config)
+- [FTP configuration](https://github.com/Natizyskunk/vscode-sftp/wiki/FTP(s)-only-Config)
 - [Commands](https://github.com/Natizyskunk/vscode-sftp/wiki/Commands)
 
 ## Usage
